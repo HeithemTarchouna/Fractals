@@ -1,5 +1,5 @@
 # Fractals
-Generating different kinds of fracts using python, matplotlib and turtle:
+Generating different kinds of fractals using python, matplotlib and turtle:
 
 -Mandelbrot :
 </br>
