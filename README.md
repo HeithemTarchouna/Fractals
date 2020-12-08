@@ -20,4 +20,5 @@ Generating different kinds of fracts using python, matplotlib and turtle:
 <img src="fractal%20pictures/sierpinsky-sieve.jpg" width =200, height =200/>
 
 Tree :
+</br>
 <img src="fractal%20pictures/tree.png" width =200, height =200/>
