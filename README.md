@@ -1,16 +1,16 @@
 # Fractals
 Generating different kinds of fracts using python, matplotlib and turtle:
 
--Mandelbrot
-![alt text](https://imgur.com/AOgN3Qs)
+-Mandelbrot :
+<img src="fractal%20pictures/mandelbrot.jpg" width =200, height =200/>
 
 -Julia
-<img src="https://imgur.com/ZbSK7LJ" alt="Julia"/>
+<img src="fractal%20pictures/julia.jpg" width =200, height =200/>
 
 
 -Fern
-<img src="https://imgur.com/g2N6qLk" alt="Fern"/>
+<img src="fractal%20pictures/fern.png" width =200, height =200/>
 
 -Sierpinsky
-<img src="https://imgur.com/yEYIuBH" alt="Sierpinsky"/>
-<img src="https://imgur.com/Oqrl3Uj" alt="Sierpinsky"/>
+<img src="fractal%20pictures/sierpinsky-arrowhead.jpg" width =200, height =200/>
+<img src="fractal%20pictures/sierpinsky-sieve.jpg" width =200, height =200/>
