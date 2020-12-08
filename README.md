@@ -18,3 +18,6 @@ Generating different kinds of fracts using python, matplotlib and turtle:
 </br>
 <img src="fractal%20pictures/sierpinsky-arrowhead.jpg" width =200, height =200/>
 <img src="fractal%20pictures/sierpinsky-sieve.jpg" width =200, height =200/>
+
+Tree :
+<img src="fractal%20pictures/tree.png" width =200, height =200/>
